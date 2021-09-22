@@ -4,12 +4,12 @@
 
 ## Introduction
 
-Welcome to Startup Token. Startup Token is a company that helps startups to obtain agile financing thanks to the tokenization of investment rounds, giving them greater access to a decentralized network of investors, while giving investors the security of investing in real projects and having liquidity in case of wanting to buy or sell the tokens of each startup.
+Welcome to Startup Token. Startup Token is a company that helps startups to obtain agile funding thanks to the tokenization of investment rounds, giving them greater access to a decentralized network of investors, while giving investors the security of investing in real projects and having liquidity in case of wanting to buy or sell the tokens of each startup.
 
 ## Problem in Funding for Startups
 
 Every day, more startups appear to solve problems through their innovative solutions, giving the world new perspectives for economic development.
-The problem is that startups themselves must dedicate a lot of work to raise capital to continue operating and scale, considering that although there is greater capital and investor networks, accessing them is fierce competition of which less than 1% manages to access and obtain adequate financing.
+The problem is that startups themselves must dedicate a lot of work to raise capital to continue operating and scale, considering that although there is greater capital and investor networks, accessing them is fierce competition of which less than 1% manages to access and obtain adequate funding.
 Crowdfunding platforms have managed to mitigate part of this problem, but they also convey problems to investors, since although the amount of money necessary to invest and participate is reduced, it does not generate liquidity in the short or medium term if they need to withdraw from the project.
 
 At Startup Token we believe that these problems can be easily solved if we do things right and think of all those involved.
@@ -17,7 +17,7 @@ At Startup Token we believe that these problems can be easily solved if we do th
 
 ## What is Startup Token
 
-Startup Token is a company (in the process of being established in Chile) that will allow tokenize investment rounds. For example, Startup A needs a seed financing for US$50,000 , after a validation of the company, its legal activities and people by Startup Token, we will create a specific token for this round and we will sell it on a decentralized exchange in which any person (investor) can acquire them through BNB or BUSD.
+Startup Token is a company (in the process of being established in Chile) that will allow tokenize investment rounds. For example, Startup A needs a seed funding for US$50,000 , after a validation of the company, its legal activities and people by Startup Token, we will create a specific token for this round and we will sell it on a decentralized exchange in which any person (investor) can acquire them through BNB or BUSD.
 In the previous example, if the goal is not met, the investor has the option of receiving his money back or continuing to invest in the startup if he considers it has a promising future.
 Additionally, in the same decentralized market that Startup Token will enable, we will add liquidity for the sold token, in case an investor wants to sell their tokens (because they need the money, they no longer want to participate in the project or whatever reason they deem appropriate), giving them the right to control people until when to continue in the project.
 The owner of a token generated for a startup will have a part of the percentage of that company, in relation to the tokens acquired.

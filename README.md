@@ -49,7 +49,7 @@ The following token utilization is to demonstrate how we are preparing for a lon
 
 - Pre-sale 1, in 2021 Q4
 - Pre-sale 2, in 2021 Q4
-- Public sale, in 2021 Q1
+- Public sale, in 2022 Q1
 - Dev: 3 years vesting, lock in first 2 years, unlock in 3rd year - equivalently in 12 months
 - Technical: 18 months vesting, lock in first 6 months, then unlock equivalently in 12 months
 - Advisor: 2 years vesting, lock in first 1 years, unlock in 2nd year - equivalently in 12 months

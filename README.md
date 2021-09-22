@@ -54,6 +54,10 @@ The following token utilization is to demonstrate how we are preparing for a lon
 - Technical: 18 months vesting, lock in first 6 months, then unlock equivalently in 12 months
 - Advisor: 2 years vesting, lock in first 1 years, unlock in 2nd year - equivalently in 12 months
 
+## Audit
+
+- Techrate: https://github.com/StartupTokenTech/StartupTokenContract/blob/main/Techrate_audit.pdf
+
 ## Team
 
 ### Néstor Campos (CEO and technical leader)

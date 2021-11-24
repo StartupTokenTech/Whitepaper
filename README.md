@@ -1,10 +1,10 @@
-# Startup Token Whitepaper
+# StartupPad Whitepaper
 
 *This whitepaper will be constantly updated as the project progresses.*
 
 ## Introduction
 
-Welcome to Startup Token. Startup Token is a company that helps startups to obtain agile funding thanks to the tokenization of investment rounds, giving them greater access to a decentralized network of investors, while giving investors the security of investing in real projects and having liquidity in case of wanting to buy or sell the tokens of each startup.
+Welcome to StartupPad. StartupPad is a launchpad that helps Web 2.0 startups to obtain agile funding thanks to the tokenization of investment rounds, giving them greater access to a decentralized network of investors, while giving investors the security of investing in real projects and having liquidity in case of wanting to buy or sell the tokens of each startup (which transition to the Web 3.0 model).
 
 ## Problem in Funding for Startups
 
@@ -17,16 +17,16 @@ At Startup Token we believe that these problems can be easily solved if we do th
 
 ## What is Startup Token
 
-Startup Token is a company (in the process of being established in Chile) that will allow tokenize investment rounds. For example, Startup A needs a seed funding for US$50,000 , after a validation of the company, its legal activities and people by Startup Token, we will create a specific token for this round and we will sell it on a decentralized exchange in which any person (investor) can acquire them through BNB or BUSD.
+StartupPad is a company (in the process of being established in Chile) that will allow tokenize investment rounds. For example, Startup A needs a seed funding for US$50,000 for transitioning to Web 3.0, after a validation of the company, its legal activities and people by StartupPad, we will create a specific token for this round and we will sell it on a decentralized launchpad platform in which any person (investor) can acquire them through BNB or BUSD.
 In the previous example, if the goal is not met, the investor has the option of receiving his money back or continuing to invest in the startup if he considers it has a promising future.
-Additionally, in the same decentralized market that Startup Token will enable, we will add liquidity for the sold token, in case an investor wants to sell their tokens (because they need the money, they no longer want to participate in the project or whatever reason they deem appropriate), giving them the right to control people until when to continue in the project.
+Additionally, in the same decentralized market that StartupPad will enable, we will add liquidity for the sold token, in case an investor wants to sell their tokens (because they need the money, they no longer want to participate in the project or whatever reason they deem appropriate), giving them the right to control people until when to continue in the project.
 The owner of a token generated for a startup will have a part of the percentage of that company, in relation to the tokens acquired.
 
 STARTUP is the token that allows the government of all the activities and financing of the project. The owners of this token will participate in the decisions of the company and will receive profits from the company proportional to the amount of STARTUP acquired
 
-The goal is to invest in all kinds of tech startups (AI, blockchain, Fintech, Insurtech, etc.) regardless of whether or not they work on blockchain technology.
+The goal is to invest in all kinds of tech startups (AI, blockchain, Fintech, Insurtech, etc.) regardless of whether or not they work on blockchain technology right now, but with a view to integrating decentralized technologies into its business model.
 
-Our goal is to transform Startup Token into a group of angel investors that can compete with the largest Venture Capitals in the world.
+Our goal is to transform StartupPad into a group of angel investors that can compete with the largest Venture Capitals in the world.
 
 
 
@@ -47,37 +47,35 @@ The following token utilization is to demonstrate how we are preparing for a lon
 
 ### Token vesting schedule
 
-- Pre-sale 1, in 2021 Q4
-- Pre-sale 2, in 2021 Q4
-- Public sale, in 2022 Q1
+- Pre-sale 1 (IDO), in 2022 Q1
+- Pre-sale 2 (IDO), in 2022 Q1
+- Public sale (in DEX), in 2022 Q1
 - Dev: 3 years vesting, lock in first 2 years, unlock in 3rd year - equivalently in 12 months
 - Technical: 18 months vesting, lock in first 6 months, then unlock equivalently in 12 months
 - Advisor: 2 years vesting, lock in first 1 years, unlock in 2nd year - equivalently in 12 months
 
-## Audit
-
-- Techrate: https://github.com/StartupTokenTech/StartupTokenContract/blob/main/Techrate_audit.pdf
 
 ## Team
 
 ### Néstor Campos (CEO and technical leader)
-Hello and welcome to Startup Token! I’m Néstor, the CEO of Startup Token. I am a IT graduate currently living in Santiago, Chile. I have had experience working within many industries with technologies setting in many Latin America countries and have built a strong understanding corporate systems through my study and more general experiences. I’ve been actively involved in the crypto markets for almost half a decade and this, combined with my previous involvement with startups. My role in the business is that of a CEO – I determine the direction of the business as a whole and lead talks about long term strategy. I, alongside the rest of the team, take responsibility for the performance, and results of the business and the token. If you want to hear any more from me about my personal life or about Startup Token, feel free to contact me directly with any enquiries at contact@startuptoken.tech or by linkedin: https://www.linkedin.com/in/nescampos/
+Hello and welcome to StartupPad! I’m Néstor, StartupPad CEO. I am a IT graduate currently living in Santiago, Chile. I have had experience working within many industries with technologies setting in many Latin America countries and have built a strong understanding corporate systems through my study and more general experiences. I’ve been actively involved in the crypto markets for almost half a decade and this, combined with my previous involvement with startups. My role in the business is that of a CEO – I determine the direction of the business as a whole and lead talks about long term strategy. I, alongside the rest of the team, take responsibility for the performance, and results of the business and the token. If you want to hear any more from me about my personal life or about StartupPad, feel free to contact me directly with any enquiries at contact@startuptoken.tech or by linkedin: https://www.linkedin.com/in/nescampos/
 
 *The team is growing and we will soon add their profiles so you can meet us and talk to them.*
 
 ## Social networks
 
-- Global Telegram Channel: https://t.me/startuptokenglobal
+- Twitter: https://twitter.com/padstartup
+- Global Telegram Channel: https://t.me/startuppad
 
 ## Legal Disclamer
 
 ### No advice 
 
-Any initiative given in the whitepaper is for information purposes only and does not act as financial advice. This whitepaper does not constitute any investment advice or recommendation by Startup Token on token STARTUP, its officers, directors, managers, employees, agents, advisors, or consultants on the merits of purchasing STARTUP token nor should it be relied upon in connection with any other contract or purchasing decision.
+Any initiative given in the whitepaper is for information purposes only and does not act as financial advice. This whitepaper does not constitute any investment advice or recommendation by StartupPad on token STARTUP, its officers, directors, managers, employees, agents, advisors, or consultants on the merits of purchasing STARTUP token nor should it be relied upon in connection with any other contract or purchasing decision.
 
 ### Not a sale of security
 
-This whitepaper does not constitute a prospectus or financial service offering document and is not an offer to sell or solicitation of an offer to buy any security, investment products, regulated products, or financial instruments in any jurisdiction. Token STARTUP is not being structured or sold as securities https://startuptoken.tech/ (STARTUP token introduction websites).
+This whitepaper does not constitute a prospectus or financial service offering document and is not an offer to sell or solicitation of an offer to buy any security, investment products, regulated products, or financial instruments in any jurisdiction. Token STARTUP is not being structured or sold as securities https://startuppad.xyz/ (STARTUP token introduction websites).
 The information set out herein is only conceptual and describes the future development goals for token STARTUP to be developed. The whitepaper or the websites may be amended or replaced from time to time. There are no obligations to update the whitepaper or the website or to provide recipients with access to any information beyond what is provided herein.
 
 ### No representations

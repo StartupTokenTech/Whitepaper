@@ -17,7 +17,7 @@ At Startup Token we believe that these problems can be easily solved if we do th
 
 ## What is Startup Token
 
-StartupPad is a company (in the process of being established in Chile) that will allow tokenize investment rounds. For example, Startup A needs a seed funding for US$50,000 for transitioning to Web 3.0, after a validation of the company, its legal activities and people by StartupPad, we will create a specific token for this round and we will sell it on a decentralized launchpad platform in which any person (investor) can acquire them through BNB or BUSD.
+StartupPad is a company (in the process of being established in Chile) that will allow tokenize investment rounds. For example, Startup A needs a seed funding for US$50,000 for transitioning to Web 3.0, after a validation of the company, its legal activities and people by StartupPad, we will create a specific token for this round and we will sell it on a decentralized launchpad platform in which any person (investor) can acquire them through XLM or USDC.
 In the previous example, if the goal is not met, the investor has the option of receiving his money back or continuing to invest in the startup if he considers it has a promising future.
 Additionally, in the same decentralized market that StartupPad will enable, we will add liquidity for the sold token, in case an investor wants to sell their tokens (because they need the money, they no longer want to participate in the project or whatever reason they deem appropriate), giving them the right to control people until when to continue in the project.
 The owner of a token generated for a startup will have a part of the percentage of that company, in relation to the tokens acquired.
@@ -37,8 +37,7 @@ The following token utilization is to demonstrate how we are preparing for a lon
 ### Key Metrics 
 - Token symbol: STARTUP
 - Total Supply: 1,000,000,000
-- Blockchain: Binance Smart Chain
-- Contract: 0x9A4aaA4FcEc78373B1B4635Cd9F19158ABEd4084
+- Blockchain: Stellar
 - Token type: Utility, Governance
 
 ### Distribution
